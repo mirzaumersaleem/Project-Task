@@ -1,7 +1,7 @@
 # Stowk Coding Challenge
 
-## 1 - Fork this repo
+### 1 - Fork this repo.
 
-## 2 - Do all the coding challneges in your own repo
+### 2 - Do all the coding challenges in your own repo.
 
-## 3 - You have 24 hours to finish these excercizes.
+### 3 - You have 24 hours to finish these exercises.
