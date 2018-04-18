@@ -32,7 +32,7 @@ Promise.resolve(1)
 
 ## How do you set a cookie in node? Clear cookie?
 
-## How do you prevent XSS Attachs?
+## How do you prevent XSS Attacks in Node.js?
 
 ## What are the 3 arguments in an express middleware/route callback?
 
@@ -42,3 +42,4 @@ Promise.resolve(1)
 
 ## What is a `Stream` in Node.js?
 
+## What's the difference between the following HTTP requests: GET, POST, PUT, PATCH, DELETE?
