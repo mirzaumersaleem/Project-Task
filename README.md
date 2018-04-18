@@ -1,1 +1,1 @@
-# Stowk Codingg Challenge
+# Stowk Coding Challenge
